@@ -3,7 +3,7 @@
 A template for design docs for machine learning systems based on this [post](https://eugeneyan.com/writing/ml-design-docs/) and [repository](https://github.com/eugeneyan/ml-design-docs) by Eugene Yan.
 
 **Note by E.Y.**: This template is a guideline / checklist and is **not meant to be exhaustive**. The intent of the design doc is to help you think better (about the problem and design) and get feedback. Adopt whichever sections—and add new sections—to meet this goal. 
-'''View other templates, examples [here](#other-templates-examples-etc).'''
+<!--View other templates, examples [here](#other-templates-examples-etc).-->
 
 ---
 ## 1. Overview
