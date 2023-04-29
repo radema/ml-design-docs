@@ -8,13 +8,17 @@ A template for design docs for machine learning systems based on this [post](htt
 ---
 ## 1. Overview
 
-A summary of the doc's purpose, problem, solution, and desired outcome, usually in 3-5 sentences.
+A summary of the doc's purpose, problem, solution, and desired outcome, usually in 3-5 sentences. 
+Specify the following:
+:black_square_button: Problem Statement (what you need to solve)
+:black_square_button: Solution or approach proposed (how you expect to solve)
+:black_square_button: Desired outcome (which result you expect)
 
 ## 2. Motivation
 Why the problem is important to solve, and why now.
 
 ## 3. Success metrics
-Usually framed as business goals, such as increased customer engagement (e.g., CTR, DAU), revenue, or reduced cost.
+Usually framed as business goals, such as increased customer engagement (e.g., CTR, DAU), revenue, or reduced cost. Define metrics using the [SMART](https://en.wikipedia.org/wiki/SMART_criteria) framework.
 
 ## 4. Requirements & Constraints
 Functional requirements are those that should be met to ship the project. They should be described in terms of the customer perspective and benefit. (See [this](https://eugeneyan.com/writing/ml-design-docs/#the-why-and-what-of-design-docs) for more details.)
