@@ -27,10 +27,14 @@ Non-functional/technical requirements are those that define system quality and h
 
 Constraints can come in the form of non-functional requirements (e.g., cost below $`x` a month, p99 latency < `y`ms)
 
-### 3.1 What's in-scope & out-of-scope?
+### 3.1. What's in-scope & out-of-scope?
 Some problems are too big to solve all at once. Be clear about what's out of scope.
 
+### 3.2. Assumptions
+Make explicit your assumptions and understanding of the environment. This guides how you frame the problem and the solution itself.
+
 ## 4. Methodology
+In this section, we depict the solutions itself. Here’s a list of things to consider in a design doc, split into two sections (methodology and implementation). These should serve as a checklist/reference and are not meant to be exhaustive. Remember, the aim of the design doc is to help you think and feedback. Thus, write whatever is necessary to achieve this goal.
 
 ### 4.1. Problem statement
 
